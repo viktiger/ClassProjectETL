@@ -5,7 +5,7 @@
 Christian Adiputra\
 David Cheung\
 Macia Tran\
-Vik Shah\
+Vik Shah
 
 ## Project Parts
 
@@ -13,8 +13,8 @@ lorem ipsum
 
 ## Project Applications
 
-Pandas/
-Matplotlib/
+Pandas\
+Matplotlib
 
 ## Project Charter
 (1) Display script from repository
