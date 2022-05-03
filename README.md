@@ -9,7 +9,8 @@ Vik Shah
 
 ## Project Parts & Charter
 
-Lorem ipsum
+(1) Resources/ 2015-2022.csv "World Happiness Report"\
+(2) Resources/ Cost of Living Index.csv
 
 ## Project Applications
 
