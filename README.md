@@ -8,13 +8,13 @@ Macia Tran\
 Vik Shah
 
 ## Project Contents
-1. Project Parts & Charter\
-2. Project Applications\
-3. Project Introduction & Background\
-4. Project Report\
-  * Extract\
-  * Transform\
-  * Load\
+1. Project Parts & Charter
+2. Project Applications
+3. Project Introduction & Background
+4. Project Report
+  * Extract
+  * Transform
+  * Load
 5. Project Insights & Conclusion
 
 ## Project Parts & Charter
