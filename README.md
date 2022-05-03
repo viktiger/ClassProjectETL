@@ -7,7 +7,7 @@ David Cheung\
 Macia Tran\
 Vik Shah
 
-## Project Parts
+## Project Parts & Charter
 
 Lorem ipsum
 
@@ -15,10 +15,6 @@ Lorem ipsum
 
 Pandas\
 Matplotlib
-
-## Project Charter
-
-Lorem ipsum
 
 ## Project Background
 
