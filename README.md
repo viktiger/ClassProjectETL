@@ -17,36 +17,36 @@ Vik Shah
    * Load
 5. Project Insights & Conclusion
 
-## Project Parts & Charter
+## 1. Project Parts & Charter
 
 (1) Resources/ 2015-2022.csv "World Happiness Report"\
 (2) Resources/ Cost of Living Index.csv
 
-## Project Applications
+## 2. Project Applications
 
 Pandas\
 Matplotlib
 
-## Project Introduction & Background
+## 3. Project Introduction & Background
 
 Extract world happiness index from kaggle.com data source\
 Transform the data files (.csv) into dataframes and cleanse\
 Load dataframes into tables or "datawarehouse" e.g. PostgreSQL
 
-## Project Report
+## 4. Project Report
 
-### Extract
-
-Lorem Ipsum
-
-### Transform
+### 4(i). Extract
 
 Lorem Ipsum
 
-### Load
+### 4(ii). Transform
 
 Lorem Ipsum
 
-## Project Insights & Conclusion
+### 4(iii). Load
+
+Lorem Ipsum
+
+## 5. Project Insights & Conclusion
 
 We're not a Sarah
