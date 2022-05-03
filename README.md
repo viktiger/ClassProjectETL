@@ -7,6 +7,16 @@ David Cheung\
 Macia Tran\
 Vik Shah
 
+## Project Contents
+(1) Project Parts & Charter
+(2) Project Applications
+(3) Project Introduction & Background
+(4) Project Report
+  (i)   Extract
+  (ii)  Transform
+  (iii) Load
+(5) Project Insights & Conclusion
+
 ## Project Parts & Charter
 
 (1) Resources/ 2015-2022.csv "World Happiness Report"\
@@ -17,7 +27,7 @@ Vik Shah
 Pandas\
 Matplotlib
 
-## Project Background
+## Project Introduction & Background
 
 Extract world happiness index from kaggle.com data source\
 Transform the data files (.csv) into dataframes and cleanse\
