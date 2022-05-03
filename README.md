@@ -2,10 +2,10 @@
 
 ## Project Authors
 
-Christian Adiputra/
-David Cheung/
-Macia Tran/
-Vik Shah/
+Christian Adiputra\
+David Cheung\
+Macia Tran\
+Vik Shah\
 
 ## Project Parts
 
