@@ -12,9 +12,9 @@ Vik Shah
 2. Project Applications
 3. Project Introduction & Background
 4. Project Report
-  * Extract
-  * Transform
-  * Load
+   * Extract
+   * Transform
+   * Load
 5. Project Insights & Conclusion
 
 ## Project Parts & Charter
