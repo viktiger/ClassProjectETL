@@ -19,4 +19,24 @@ Matplotlib
 
 ## Project Background
 
-Lorem ipsum
+Extract world happiness index from kaggle.com data source\
+Transform the data files (.csv) into dataframes and cleanse\
+Load dataframes into tables or "datawarehouse" e.g. PostgreSQL
+
+## Project Report
+
+### Extract
+
+Lorem Ipsum
+
+### Transform
+
+Lorem Ipsum
+
+### Load
+
+Lorem Ipsum
+
+## Project Insights & Conclusion
+
+We're not a Sarah
