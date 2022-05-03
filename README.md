@@ -35,15 +35,15 @@ Load dataframes into tables or "datawarehouse" e.g. PostgreSQL
 
 ## 4. Project Report
 
-### 4(i). Extract
+### (i). Extract
 
 Lorem Ipsum
 
-### 4(ii). Transform
+### (ii). Transform
 
 Lorem Ipsum
 
-### 4(iii). Load
+### (iii). Load
 
 Lorem Ipsum
 
