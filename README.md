@@ -2,10 +2,10 @@
 
 ## Project Authors
 
-Christian Adiputra\
-David Cheung\
-Maica Tran\
-Vik Shah\
+Christian Adiputra: matplotlib, top 10 and botton 10 country data
+David Cheung: jupyter notebook and SQL connection
+Maica Tran: SQL processing
+Vik Shah: clean and extract data
 Vasu Vinjirapu
 
 ## Project Contents
@@ -54,4 +54,4 @@ Lorem Ipsum
 
 ## 5. Project Insights & Conclusion
 
-We're not a Sarah
+
