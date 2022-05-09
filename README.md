@@ -4,7 +4,7 @@
 
 Christian Adiputra\
 David Cheung\
-Macia Tran\
+Maica Tran\
 Vik Shah
 
 ## Project Contents
