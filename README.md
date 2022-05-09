@@ -5,7 +5,8 @@
 Christian Adiputra\
 David Cheung\
 Maica Tran\
-Vik Shah
+Vik Shah\
+Vasu Vinjirapu
 
 ## Project Contents
 1. Project Parts & Charter
@@ -25,7 +26,11 @@ Vik Shah
 ## 2. Project Applications
 
 Pandas\
-Matplotlib
+Matplotlib\
+Sqlalchemy\
+Postgresql\
+
+
 
 ## 3. Project Introduction & Background
 
