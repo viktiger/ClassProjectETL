@@ -42,16 +42,17 @@ Load dataframes into tables or "datawarehouse" e.g. PostgreSQL
 
 ### (i). Extract
 
-Lorem Ipsum
+3 CSV files were extracted from https://www.kaggle.com/. The datasets consist of two type of data: happiness index (2020 and 2021) and cost-of-living index.
 
 ### (ii). Transform
 
-Lorem Ipsum
+The tranformation process started by forming dataframes for each CSV file. Column names were modified to align with the database tables. Aggregation were done between happiness index 2020 and 2021 to produce average index between the two years for each country.
 
 ### (iii). Load
 
-Lorem Ipsum
+Database were set within Postgrestsql, consisting 3 tables to represent each dataframe. Using SQLAlchemy, a connection was established between Python and PostgresSQL. Data was loaded, and tested to confirm the connection.
 
 ## 5. Project Insights & Conclusion
 
+The datasets were chosen to identify correlations between countries' happiness index and their cost-of-living. The finding suggests that higher cost-of-living is not negatively correlated to the countries' happiness. This is shown as most countries in the top 10 happiest list are also within the top 10 of highest cost-of-living index.
 
