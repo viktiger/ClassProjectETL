@@ -2,11 +2,11 @@
 
 ## Project Authors
 
-#Christian Adiputra: matplotlib, top 10 and botton 10 country data\
-#David Cheung: jupyter notebook and SQL connection\
-#Maica Tran: SQL processing\
-#Vik Shah: clean and extract data\
-#Vasu Vinjirapu
+Christian Adiputra: matplotlib, top 10 and botton 10 country data\
+David Cheung: jupyter notebook and SQL connection\
+Maica Tran: SQL processing\
+Vik Shah: clean and extract data\
+Vasu Vinjirapu
 
 ## Project Contents
 1. Project Parts & Charter
