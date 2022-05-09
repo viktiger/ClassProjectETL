@@ -6,7 +6,7 @@ Christian Adiputra: matplotlib, top 10 and botton 10 country data\
 David Cheung: jupyter notebook and SQL connection\
 Maica Tran: SQL processing\
 Vik Shah: clean and extract data\
-Vasu Vinjirapu
+Vasu Vinjirapu: obeserve the transformation and data-loading process. 
 
 ## Project Contents
 1. Project Parts & Charter
