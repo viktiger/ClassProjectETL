@@ -28,7 +28,7 @@ Vasu Vinjirapu
 Pandas\
 Matplotlib\
 Sqlalchemy\
-Postgresql\
+Postgresql
 
 
 
